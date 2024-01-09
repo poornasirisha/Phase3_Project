@@ -186,9 +186,3 @@ Request Body Sample
 }
 ```
 
-
-## Developer
-
-Hasan Mahmud<br>
-hasan.mahmud8177@gmail.com<br>
-<https://sites.google.com/view/codemechanixhasan/home>
